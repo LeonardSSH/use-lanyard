@@ -12,7 +12,8 @@
 	"exports": {
 		".": {
 			"import": "./dist/use-lanyard.esm-bundler.js",
-			"require": "./dist/use-lanyard.cjs.js"
+			"require": "./dist/use-lanyard.cjs.js",
+			"types": "./dist/use-lanyard.d.ts"
 		},
 		"./package.json": "./package.json"
 	},
